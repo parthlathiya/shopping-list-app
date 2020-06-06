@@ -16,3 +16,13 @@ react-native run-android
 
 ```
 
+------
+
+
+```bash
+# Install react-native-vector-icons
+npm i react-native-vector-icons
+
+# Link react-native-vector-icons
+react-native link react-native-vector-icons
+```
